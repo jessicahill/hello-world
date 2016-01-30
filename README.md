@@ -9,8 +9,8 @@
 		<meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
 		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="../favicon.ico">
-		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
-		<link rel="stylesheet" type="text/css" href="css/demo.css" />
+		<link rel="stylesheet" type="text/css" href="normalize.css" />
+		<link rel="stylesheet" type="text/css" href="demo.css" />
 		<link rel="stylesheet" type="text/css" href="component.css" />
 		<link href='http://fonts.googleapis.com/css?family=Raleway:200,400,800' rel='stylesheet' type='text/css'>
 		<!--[if IE]>
