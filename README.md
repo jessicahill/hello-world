@@ -28,7 +28,7 @@
 				<div class="codrops-header">
 					<nav class="codrops-demos">
 						<a class="current-demo" href="index.html">Demo 1</a>
-						<a href="index2.html">Demo 2</a>
+						<a href="index2.html">Demo 2!</a>
 						<a href="index3.html">Demo 3</a>
 						<a href="index4.html">Demo 4</a>
 					</nav>
