@@ -7,7 +7,6 @@
 		<title>Animated Background Headers | Demo 1</title>
 		<meta name="description" content="Examples for creative website header animations using Canvas and JavaScript" />
 		<meta name="keywords" content="header, canvas, animated, creative, inspiration, javascript" />
-		<meta name="author" content="Codrops" />
 		<link rel="shortcut icon" href="../favicon.ico">
 		<link rel="stylesheet" type="text/css" href="normalize.css" />
 		<link rel="stylesheet" type="text/css" href="demo.css" />
